@@ -6,7 +6,8 @@ This Android application showcases food reviews fetched from a remote API. Built
 
 ## 🧱 Architecture & Tech Stack
 
-- **Architecture**: MVI (Model–View–Intent) + Clean Code principles
+- **Architecture**: MVI (Model–View–Intent) with Clean Code principles
+- **State Management**: [Kotlin Flows](https://kotlinlang.org/docs/flow.html) for reactive data handling
 - **Dependency Injection**: [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 - **Networking**: [Retrofit](https://square.github.io/retrofit/) + [OkHttp](https://square.github.io/okhttp/)
 - **Asynchronous Programming**: [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines)
@@ -39,3 +40,8 @@ This Android application showcases food reviews fetched from a remote API. Built
 - ViewModel and business logic are covered
 - Coroutines and API responses are tested with proper mocking
 
+---
+
+##Attaching coverage report
+
+<img width="1433" alt="CoverageReport" src="https://github.com/user-attachments/assets/d94ee2ca-bf3d-4b19-baf8-9ecd8cdbdd78" />
