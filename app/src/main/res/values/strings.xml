@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food Reviews</string>
+    <string name="title_product_review">Product Review</string>
+    <string name="no_reviews_available">No reviews available</string>
+    <string name="rating">Rating: %1$s/10</string>
+
+    !-- Content Description Strings -->
+    <string name="cd_play">Play</string>
+    <string name="cd_back">Back</string>
+
+</resources>
